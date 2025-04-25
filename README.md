@@ -24,7 +24,7 @@ This Weather Application is a React-based web app that provides real-time weathe
 
 |   |   |
 |---|---|
-| ![Screenshot 1](https://github.com/user-attachments/assets/a1c5edf3-0559-4029-8e38-791fedf689bb) | ![Screenshot 2](https://github.com/user-attachments/assets/b8363af8-79b6-4ce9-853a-d94eb0b62d7e) |
+| ![Screenshot 1](https://github.com/user-attachments/assets/bee4a6eb-0a50-4673-83b0-44e2f319ca76) | ![Screenshot 2](https://github.com/user-attachments/assets/285948ef-e7ee-4e6e-bcc7-f326c9842b9a) |
 
 
 
