@@ -46,7 +46,7 @@ This Weather Application is a React-based web app that provides real-time weathe
 
 ## Deployment
 -The Let's Talk chat app is deployed on Netlify. 
-**[Live Demo]()**
+**[Live Demo](https://weather-web-kapp.netlify.app/)**
 
 
 ## Installation
